@@ -1,4 +1,6 @@
 ---
+layout: post
+title: Introduction to chemistry
 published: false
 ---
 ## A New Post
