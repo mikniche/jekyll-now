@@ -19,13 +19,13 @@ avatar: https://raw.githubusercontent.com/mikniche/jekyll-now/master/images/IMG_
 footer-links:
   dribbble:
   email: gregory@mikniche.com
-  facebook:
+  facebook: mikniche
   flickr:
   github: mikniche/jekyll-now
-  instagram:
+  instagram: gm1k
   linkedin: mikniche
   pinterest:
-  rss: # just type anything here for a working RSS icon
+  rss: test # just type anything here for a working RSS icon
   twitter:
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
